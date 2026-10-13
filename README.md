@@ -13,3 +13,7 @@ Next.js static bilingual corporate website. Run `npm run dev` for development; `
 - Contact phone/email are from the supplied draft. Unverified English street address, biographies, regulatory claims, client logos and future services are omitted.
 - Sitemap/canonical URLs use the generated private review-site origin. Update when deploying to the company domain.
 - Public launch still requires company content/logo approval and a reviewed privacy policy if a server form or analytics are added. No tracking scripts are installed.
+
+## Design revision
+
+Established Expertise. Modern Confidence: immersive port hero, unified corporate navigation, dedicated customs/freight photographic features, gateway panels, sector list, and a coordination narrative. Additional illustrative Unsplash images: photo-1436491865332-7a61a109cc05 (air), photo-1519003722824-194d4455a60c (road), photo-1586528116311-ad8dd3c8310d (warehouse). These are not company assets or photographs of the named Jordanian gateways.
